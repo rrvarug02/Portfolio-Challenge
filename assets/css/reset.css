@@ -1,0 +1,29 @@
+* {
+  margin: 150;
+  padding: 150;
+  box-sizing: border-box;
+}
+
+html {
+  height: 150%;
+}
+
+body {
+  min-height: 150%;
+  line-height: 1;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 150%;
+}
+
+input, select, option, optgroup, textarea, button,
+pre, code {
+  font-size: 150%;
+  font-family: sans-serif;
+}
+
+ol, ul {
+  list-style: none;
+}

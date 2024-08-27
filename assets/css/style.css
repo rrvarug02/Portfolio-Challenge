@@ -1,0 +1,142 @@
+h1 {
+    color: rgb(239, 255, 96);
+    text-align: center;
+    border-color: rgb(159, 222, 252);
+    background-color: rgb(2, 2, 2);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 8em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+main {
+    background-color: rgb(159, 222, 252);
+    flex-direction: column;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    background-color: rgb(0, 0, 0);
+    color: rgb(239, 255, 96);
+    border-top: 0px;
+    border-bottom: 0px;
+    padding-top: 10px;
+    padding: 10px;
+    list-style-type: none;
+    font-weight: bold;
+    flex-wrap: wrap;
+}
+
+
+a {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    display:flex;
+}
+
+#selfie {
+    flex-wrap: wrap;
+    background-color: rgb(159, 222, 252);
+    border-color: rgb(239, 255, 96);
+    justify-content: center;
+}
+
+h3 {
+    background-color: rgb(2, 2, 2);
+    color: rgb(239, 255, 96);
+    font-size: 2.5rem;
+    border-left: 250px;
+    
+}
+
+p {
+    font-size: 30px;
+}
+
+#about {
+    flex-wrap: wrap;
+    background-color: rgb(2, 2, 2);
+    color: rgb(239, 255, 96);
+    font-size: 3rem;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-indent: 50px;
+    width: 1887px;
+}
+
+#work {
+    flex-wrap: wrap;
+    background-color: rgb(2, 2, 2);
+    color: rgb(239, 255, 96);
+    font-size: 3rem;
+    margin-right: auto;
+    padding-top:  20px;
+    padding-bottom: 20px;
+    text-indent: 50px;
+    width: 1887px;
+}
+
+#travel {
+    flex-wrap: wrap;
+    background-color: rgb(2, 2, 2);
+    color: rgb(239, 255, 96);
+    font-size: 3rem;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-indent: 50px;
+    width: 1887px;
+    
+}
+
+#contact {
+    flex-wrap: wrap;
+    background-color: rgb(2, 2, 2);
+    color: rgb(239, 255, 96);
+    font-size: 3rem;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-indent: 50px;
+    width: 1887px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#email {
+    font-size: x-large;
+}
+
+#phone {
+    font-size: x-large;
+}
+
+#github {
+    
+}
